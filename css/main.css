@@ -10,7 +10,7 @@ p {
 }
 
 .container {
-  max-width: 1620px;
+  width: 100%;
 }
 
 /*.row {
